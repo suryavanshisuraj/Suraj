@@ -1,0 +1,2 @@
+Its my Second file in Demo
+Its another try in Git Bash
